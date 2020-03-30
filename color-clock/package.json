@@ -1,0 +1,19 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"test\": \"echo 'Hello World!'\"",
+  "license": "ISC",
+  "description": "\"scripts\": {",
+  "keywords": [
+    "\"scripts\":",
+    "{"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "\"scripts\": {"
+  }
+}
